@@ -7,10 +7,11 @@ LABELLED THE COLUMNS
 THEN CREATED TEH DATA SET 
 
 
-The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
+The COURSERA.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
 Download the dataset
-Dataset downloaded and extracted under the folder called UCI HAR Dataset
+Dataset downloaded and extracted under the folder called PROJECT
+
 
 Assign each data to variables
 features <- features.txt : 561 rows, 2 columns
